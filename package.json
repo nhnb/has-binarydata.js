@@ -9,6 +9,13 @@
     "better-assert": "1.0.0",
     "mocha": "1.17.1"
   },
+  "bugs": {
+    "url" : "https://github.com/kevin-roark/has-binarydata.js/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kevin-roark/has-binarydata.js.git"
+  },
   "author": "Kevin Roark",
   "license": "MIT"
 }
